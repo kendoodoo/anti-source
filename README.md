@@ -1,2 +1,4 @@
 # anti-source
-inspired from samy.pl website, block view-source by checking headers
+work if you using default headers to get script
+
+__TESTED ONLY IN CHROME AND FIREFOX__
